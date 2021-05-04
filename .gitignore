@@ -1,0 +1,6 @@
+*.txt
+*.json
+*.log
+.idea
+__pycache__
+config
